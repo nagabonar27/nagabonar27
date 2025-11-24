@@ -4,7 +4,7 @@
 
 ---
 
-### 🔨 core focus: data-driven supply chain
+### 🔨 core focus: data-driven supply chain (or i am going back to earth science technically)
 
 i specialize in leveraging data solutions (bi, python, system design) to drive efficiency and financial control across procurement and logistics.
 
